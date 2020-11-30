@@ -49,7 +49,7 @@ A summary of the access policies in place can be found in the table below.
 |    Web-1   |          No         |           -          |
 |    Web-2   |          No         |           -          |
 |    Web-3   |          No         |           -          |
-| ELK-Server |          No         |           -          |
+| ELK-Server |         Yes         |     73.92.115.14     |
 
 ### Elk Configuration
 
