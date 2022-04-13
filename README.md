@@ -37,7 +37,7 @@ The configuration details of each machine may be found below.
 
 The machines on the internal network are not exposed to the public Internet. 
 
-Only the Jum-Box 10.0.0.7 machine can accept connections from the Internet. Access to this machine is only allowed from 73.92.115.14
+Only the Jump-Box 10.0.0.7 machine can accept connections from the Internet. Access to this machine is only allowed from 73.92.115.14
 
 Machines within the network can only be accessed by the Jump-Box 10.0.0.7.
 
