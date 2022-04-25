@@ -4,7 +4,7 @@ The files in this repository were used to configure the network depicted below.
 
 ![Red Team Network Diagram](Images/Network_Diagram.jpg)
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above.
 
 This document contains the following details:
 - Description of the Topology
@@ -17,7 +17,7 @@ This document contains the following details:
 
 ### Description of the Topology
 
-The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
+The main purpose of this network is to expose a load-balanced and monitored instance of the DVWA web application.
 
 Load balancing ensures that the application will be highly available, in addition to restricting access to the network.
 
